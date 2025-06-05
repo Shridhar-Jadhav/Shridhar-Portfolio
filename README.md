@@ -1,2 +1,2 @@
-# shridhar-portfolio
-shridhar-portfolio
+# Shridhar-Portfolio
+Shridhar-Portfolio
